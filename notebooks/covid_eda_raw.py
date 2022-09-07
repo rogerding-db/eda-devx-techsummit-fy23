@@ -42,7 +42,7 @@ display(df)
 import bamboolib as bam
 
 # This opens a UI from which you can import your data
-bam  
+bam
 
 # Printing a pandas dataframe will also open bamboolib
 df
@@ -75,6 +75,7 @@ wide_df
 # COMMAND ----------
 
 # Insert plotting code here
+
 
 # COMMAND ----------
 
