@@ -26,6 +26,13 @@
 
 # COMMAND ----------
 
+%matplotlib inline
+import ipywidgets as widgets
+import matplotlib.pyplot as plt
+import numpy as np
+from ipywidgets import interactive
+from IPython.display import Audio, display  
+import numpy as np
 #Toggle Button
 
 widgets.ToggleButton(
